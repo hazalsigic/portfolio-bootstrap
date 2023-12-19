@@ -10,7 +10,7 @@ N/A
 ![application screenshot](https://github.com/hazalsigic/portfolio-bootstrap/blob/main/images/portfolio-screenshot.png)
 
 ## Usage
-Potantial employers can view information about me and use the links the view my recent works.
+Potantial employers can view information about me and use the links to view my recent works.
 
 ## Contributing
 N/A
