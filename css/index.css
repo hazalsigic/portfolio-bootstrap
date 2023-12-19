@@ -1,0 +1,102 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+}
+body {
+    background-color: rgb(233, 230, 230) !important; ;
+}
+a {
+    text-decoration: none;
+    color: rgb(59, 1, 59);
+}
+a:hover {
+    color:rgb(205, 6, 205)
+}
+.page-section {
+    padding: 15px;
+}
+.row {
+    margin-bottom: 15px;
+}
+.page-section h2 {
+    margin-left: 300px;
+    filter: drop-shadow(0px 0px 5px rgb(114, 3, 114));
+}
+button:hover {
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.5);
+  }
+
+/*NavBar*/
+.navbar {
+    padding: 20px !important;
+    background-color: rgb(59, 1, 59) !important;
+}
+.navbar-brand {
+    padding-left: 20px;
+}
+nav a {
+    color: rgb(184, 181, 181) !important;  
+    padding-right: 10px;
+}
+nav a:hover {
+    color:rgb(205, 6, 205) !important;
+}
+nav li {
+    padding-right: 30px;
+}
+
+/*Jumbotron*/
+.jumbotron {
+    background-color: rgb(39, 1, 39);
+    color: rgb(184, 181, 181);
+    padding: 60px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    -moz-box-shadow: 0 0 5px #fff;
+    -webkit-box-shadow: 0 0 5px #fff;
+    box-shadow: 0px 0px 5px #fff;
+    filter: drop-shadow(0px 0px 5px rgb(114, 3, 114));
+}
+.jumbotron h2 {
+    color: rgb(233, 230, 230);
+}
+.jumbotron img {
+    width: 200px;
+    height: 210px;
+    border-radius: 50%;
+    -moz-box-shadow: 0 0 5px #fff;
+    -webkit-box-shadow: 0 0 5px #fff;
+    box-shadow: 0px 0px 5px #fff;
+    filter: drop-shadow(0px 0px 5px rgb(114, 3, 114));
+}
+
+/*Cards*/
+.card {
+    background-color: rgb(249, 246, 246) !important;
+    display: flex;
+    -moz-box-shadow: 0 0 5px #fff;
+    -webkit-box-shadow: 0 0 5px #fff;
+    box-shadow: 0px 0px 5px #fff;
+    filter: drop-shadow(0px 0px 5px rgb(114, 3, 114));
+}
+
+/*skills and contact list*/
+.skills ul {
+    background-color: rgb(249, 246, 246) !important;
+    -moz-box-shadow: 0 0 5px #fff;
+    -webkit-box-shadow: 0 0 5px #fff;
+    box-shadow: 0px 0px 5px #fff;
+    filter: drop-shadow(0px 0px 5px rgb(114, 3, 114));
+}
+
+.row ul {
+    background-color: rgb(249, 246, 246) !important;
+}
+.row  ul li {
+    background-color: rgb(249, 246, 246) !important;
+}
+
